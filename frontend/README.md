@@ -8,8 +8,8 @@ Blog: [https://inthej.com/](https://inthej.com/)
 
 ## Install
 ```
-$ yarn create react-app frontend --typescript && cd frontend
+$ yarn create react-app frontend --template typescript && cd frontend
 ```
 
 ## Reference
-- Create React App [https://create-react-app.dev/](https://create-react-app.dev/)
+- Create React App typescript [https://create-react-app.dev/docs/adding-typescript/](https://create-react-app.dev/docs/adding-typescript/)
